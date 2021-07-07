@@ -1,6 +1,6 @@
 # Este es mi segundo proyecto
 
->Decidí entender react comenzando por una todolist y junto con la ayuda de videos e info adicional llegué a lograr hacerlo.
+>Decidí entender react comenzando por una todolist y junto con la ayuda de videos e información adicional llegué lograr hacerlo.
 
 # TodoList
 
