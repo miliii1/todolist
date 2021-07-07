@@ -6,5 +6,3 @@
 
 >Consiste en agregar tareas y que haceres del día, algo muy básico, pero entendible.
 
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
-
