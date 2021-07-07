@@ -1,8 +1,10 @@
 # Este es mi segundo proyecto
 
->Decidí entender a fondo los formularios y junto con la ayuda de videos llegué a lograr este todoList
+>Decidí entender a fondo los formularios y junto con la ayuda de videos e info adicional llegué a lograr este todoList
 
 # TodoList
 
 >Consiste en agregar tareas y que haceres del día, algo muy básico, pero entendible.
+
+https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
 
