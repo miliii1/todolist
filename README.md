@@ -1,4 +1,4 @@
-#Este es mi segundo proyecto#
+#Este es mi segundo proyecto
 
 Decidí entender a fondo los formularios y junto con la ayuda de videos llegué a lograr este todoList
 
